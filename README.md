@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @XiaoMXian
+- 👀 I’m interested in SAS programming in Phamacutical industry.
+- 🌱 I’m currently learning SAS and CDISC guidance
+- 💞️ I’m looking working in MacroStat and this is my privacy code library.
